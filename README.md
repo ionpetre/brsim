@@ -12,6 +12,10 @@ conserved in a reaction system.
 
 `brsim` is distributed under the terms of GNU GPLv3 license.
 
+**Note:** `brsim` should be considered **unmaintained software** at
+this point.  You may have some luck building it with GHC 8.6.5, but
+will probably not work.
+
 ## Reaction Systems
 
 Reaction systems were originally introduced as a formal framework for
