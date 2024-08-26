@@ -308,12 +308,6 @@ technical report [1].  If your question is not covered by the present
 `README` or `brsim help`, feel free to read the code directly or
 contact me at `sergiu` dot `ivanov` at something like `univ-evry.fr`.
 
-## Web Interface
-
-It is also possible to use the simulator
-[online](https://combio.org/portfolio/webrsim-reaction-system-simulator/).
-This page also lists further examples of reaction systems.
-
 ## References
 
 [0] Robert Brijder, Andrzej Ehrenfeucht, Michael G. Main, Grzegorz
